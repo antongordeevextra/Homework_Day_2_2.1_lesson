@@ -97,4 +97,5 @@ class MainActivity : AppCompatActivity() {
         Log.d(LOG_TAG, "onDestroy")
 
     }
+    //there is 2.2 lesson here
 }
